@@ -17,5 +17,5 @@
 # Properties
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.ota.romname=12-20150222-NIGHTLY-u8951 \
-    ro.ota.version=2015022 \
+    ro.ota.version=20150222 \
     ro.ota.manifest=https://raw.githubusercontent.com/CyanogenMod12/manifest/cm-12.0/ota.xml
